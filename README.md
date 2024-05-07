@@ -19,7 +19,7 @@
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently working with Java/Spring Boot.
-- 📓 I'm a post graduate from [Southeast University](https://juniv.edu/).
+- 📓 I'm a post graduate from [Jahangirnagar University](https://juniv.edu/).
 - 📓 I'm a graduate from [Southeast University](https://seu.edu.bd/).
 - 👨🏻‍💻 I am working at [Intellier Limited, Bangladesh](https://www.intellier.com/) as a `Senior Software Engineer`.
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend** everyday.
